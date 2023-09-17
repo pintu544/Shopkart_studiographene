@@ -13,9 +13,9 @@
   <div class="stackedit__html"><h1 id="frontend-assignment">Frontend Assignment</h1>
 <p>This project is a React-based frontend application for a fictional website. It includes navigation, a banner, product listings, and a contact form.</p>
 <h2 id="hosted-urls">Hosted Urls:</h2>
-<p><a href="https://shopkart-studiographene.vercel.app/">Mobile/Tablet</a><br>
-<a href="https://shopkart-studiographene.vercel.app/Desktop">Desktop</a><br>
-<a href="https://shopkart-studiographene.vercel.app/IPhone142">Navbar Menu</a></p>
+<p><a href="https://shopkart-studiographene.vercel.app/"  target="_blank">Mobile/Tablet</a><br>
+<a href="https://shopkart-studiographene.vercel.app/Desktop"   target="_blank">Desktop</a><br>
+<a href="https://shopkart-studiographene.vercel.app/IPhone142"  target="_blank">Navbar Menu</a></p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#getting-started">Getting Started</a></li>
